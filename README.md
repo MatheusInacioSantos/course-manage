@@ -1,11 +1,7 @@
-<div aling="center">
+<div align="center">
 
-    Desafio de projeto Aprendendo a Criar componentes com Angular 8
-    
-    
-    
-    ![Angular 8](img/angular-8.png)
-
+## Desafio de projeto Aprendendo a Criar componentes com Angular 8
+![Angular 8](img/angular-8.png)
 </div>
 
 
